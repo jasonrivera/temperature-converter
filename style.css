@@ -1,0 +1,35 @@
+body {
+    margin-top: 70px;
+    background: #EFF7F6;
+    color: #B8AEBD;
+}
+
+#fahrenheitInput {
+    box-shadow: 0px 0px 3px 1.5px rgba(102,102,102,1);
+    color: #616161;
+}
+
+.bg-primary {
+    box-shadow: 0px 0px 3px 1.5px rgba(153,199,252,1);
+}
+
+#celsius-text {
+    color: #00AEC1;
+}
+
+.bg-primary, .bg-success {
+    /* background-color: #E9E9EB !important; */
+    background-color:#F4F4F4 !important;
+}
+
+#celsiusOutput, #kelvinOutput {
+    font-size: 1.4rem;
+}
+
+.bg-success {
+    box-shadow: 0px 0px 3px 1.5px rgba(159,242,161,1);
+}
+
+#kelvin-text {
+    color: #48BA70;
+}
